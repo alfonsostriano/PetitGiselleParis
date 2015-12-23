@@ -1,0 +1,11 @@
+If you've already purchased the theme "Sweet Cake" and you're going to update the theme to use the new implementations you have to perform these steps: 
+
+-Make a backup of your settings in the "theme options", Appearance -> Theme Options -> Backup Options -> Copy the contents of the "Transfer Date Theme Options." 
+
+-If you have made your changes to the theme css, you will loose theme. To keep the css changes you need to activate the theme-child and enter your css rules in style.css of the child theme. 
+
+-You can replace all the files of "Sweet Cake Theme" with the new theme files. 
+
+-Paste the backup of your "theme Options" in the "Transfer Date Theme Options" and click the "Import Options". 
+
+-Save All Changes button "Save All Changes"

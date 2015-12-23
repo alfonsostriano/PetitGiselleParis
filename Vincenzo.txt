@@ -1,0 +1,34 @@
+<!-- SendinBlue Signup Form HTML Code -->
+<div id="sib_embed_signup">
+    <div class="wrapper">
+
+        <input type="hidden" id="sib_embed_signup_lang" value="it">
+        <input type="hidden" id="sib_embed_invalid_email_message" value="Email non valida, Riprova.">
+        <div id="sib_loading_gif_area" style="position: absolute;z-index: 9999;display: none;">
+            <img src="http://img.mailinblue.com/new_images/loader_sblue.gif" style="display: block;margin-left: auto;margin-right: auto;position: relative;top: 40%;">
+        </div>
+        <form class="description" id="theform" name="theform" action="https://my.sendinblue.com/users/subscribeembed/js_id/2abce/id/1" onsubmit="return false;">
+            
+
+<input type="hidden" name="js_id" id="js_id" value="2abce"><input type="hidden" name="listid" id="listid" value="4">
+<input type="hidden" name="from_url" id="from_url" value="yes">
+<input type="hidden" name="hdn_email_txt" id="hdn_email_txt" value="">
+            
+                
+   <input type="hidden" name="req_hid" id="req_hid" value="">
+               
+   <input type="text" name="email" id="email" value="" class="validate white center black-text" placeholder="Inserisci qui la tua email!">
+  <button class="btn btn-registrazione waves-effect waves-light purple lighten-2" type="submit" data-editfield="subscribe" name="action">Voglio iscrivermi!</button>     
+
+            <p><center><img src="images/lucchetto.png" alt="privacy" style="max-width: 16px; max-height: 16px;">  100% Sicuro. Odiamo lo Spam quanto te.</p></center>
+<div class="container rounded" style="position: absolute;top:150px;left:75px;"> 
+
+            </div>    
+        </form>
+    </div>
+</div>
+<script type='text/javascript' src='https://my.sendinblue.com/public/theme/version3/js/subscribe-validate.js'></script>
+<script type='text/javascript'>
+    jQuery.noConflict(true);
+</script>
+<!-- End : SendinBlue Signup Form HTML Code -->
